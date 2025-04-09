@@ -10,6 +10,9 @@ opencv-contrib-python = "*"
 pandas = "*"
 matplotlib = "*"
 labelimg = "*"
+onnxruntime = "*"
+onnx = "*"
+streamlit = "*"
 
 [dev-packages]
 ruff = "*"
